@@ -8,8 +8,8 @@ Develop a model to translate from one language to another character using  RNN L
 📊 Character Error Rate (CER): 23.67%
 
 ==================================================================
-      Dynamic Model Analysis (for 1-Layer GRU)
-==================================================================
+
+---Dynamic Model Analysis (for 1-Layer GRU)---
 
 --- Model Configuration ---
   - Cell Type: GRU (hardcoded in notebook)
