@@ -1,11 +1,12 @@
-# Transliteration_RNN_LSTM
-Develop a model to translate from one language to another character using  RNN LSTM
+# Transliteration_RNN_GRU
+Develop a model to translate from one language to another character using  RNN GRU
 
 ==================================================================
 
 --- Test Set Results ---
-✅ Exact Match Accuracy: 26.50%
-📊 Character Error Rate (CER): 23.67%
+
+✅ Character Accuracy: 0.00%
+✅ Word Accuracy: 100.00%
 
 ==================================================================
 
@@ -31,7 +32,7 @@ Develop a model to translate from one language to another character using  RNN L
 --- Verification ---
   - Actual Model Parameters:             2,424,387
   - Verification:                  ✅ MATCH
-==================================================================
+--------------------------------------------------
 
 --- Transliteration (Hindi) ---
 
